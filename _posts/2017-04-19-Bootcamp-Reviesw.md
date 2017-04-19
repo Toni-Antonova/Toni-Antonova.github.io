@@ -3,17 +3,16 @@ layout: post
 title: Why Metis? 
 ---
 
-## Metis Bootcamp Rundown
+## What is Metis?
 
 ---
-
-**What is Metis?**
-
 Metis is an organization focused on accelerating the careers of data scientists. Metis provides full-time immersive bootcamps, evening professional development courses, online training, and corporate programs.
 
 ---
 
-**Why Did I Choose Metis' Data Science Bootcamp? **
+## Why Did I Choose Metis' Data Science Bootcamp?
+
+---
 
 I was looking to join a full-time program in Data Science, and Metis looked like the best option out there for me. For context, I came to the bootcamp with a Bachelor's in Philosophy and a professional background in digital media distribution. I also decided against graduate programs fairly early on in my decision making process because of the difference in cost and program length.    
 Bootcamps provide a great way of getting up to speed with the latest industry tools and hot topics in a field, so I ultimately decided to look into graduate school programs down the road when I'm better acqainted with both. 
