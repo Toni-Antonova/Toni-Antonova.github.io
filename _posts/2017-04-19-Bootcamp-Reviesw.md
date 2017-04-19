@@ -43,7 +43,8 @@ These two websites helped me most above others:
 <br>
   
   
-</center>
+</center>  
+
 ---
 
 ## Galvanize vs. Metis 
