@@ -27,7 +27,7 @@ These two websites helped me most above others:
   
 [Course Report](https://www.coursereport.com) offers in-depth reviews of bootcamps, financing options, curriculum strategies, and much more.
   
-Ultimately, I narrowed my search to these 5 programs:    
+<center>Ultimately, I narrowed my search to these 5 programs:</center>    
     
 [Galvanize](http://www.galvanize.com/courses/)   
 
