@@ -1,10 +1,61 @@
 ---
 layout: post
-title: You're up and running!
+title: Why Metis? 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## Metis Bootcamp Rundown
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+---
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+**What is Metis?**
+
+Metis is an organization focused on accelerating the careers of data scientists. Metis provides full-time immersive bootcamps, evening professional development courses, online training, and corporate programs.
+
+---
+
+**Why Did I Choose Metis' Data Science Bootcamp? **
+
+I was looking to join a full-time program in Data Science, and Metis looked like the best option out there for me. For context, I came to the bootcamp with a Bachelor's in Philosophy and a professional background in digital media distribution. I also decided against graduate programs fairly early on in my decision making process because of the difference in cost and program length.    
+Bootcamps provide a great way of getting up to speed with the latest industry tools and hot topics in a field, so I ultimately decided to look into graduate school programs down the road when I'm better acqainted with both. 
+  
+The major perk of graduate school programs over bootcamps is that they provide a more in-depth look at the theory behind various topics. It seems to me that both are on par as a path to learn the technical tools needed for data science, so I'm hoping to jump into a higher-level grad study only once I know what part of the field interests me most.
+---
+
+**Best Data Science Bootcamps**
+
+I started my search for the ideal educational program by scowering through lists of bootcamps and masters programs related to the field and reading forum posts on every program. 
+  
+These two websites helped me most above others:
+  
+[Switch Up](https://www.switchup.org/research/best-data-science-bootcamps) offers a selective list of the 6 "Best Data Science Bootcamps".  
+  
+[Course Report](https://www.coursereport.com)  
+  
+Ultimately, I narrowed my search to these 5 programs:    
+    
+[Galvanize](http://www.galvanize.com/courses/)   
+[Data Science for Social Good](https://dssg.uchicago.edu)  
+[Insight Fellows Program](http://insightdatascience.com)  
+[Metis](https://www.thisismetis.com)  
+[The Data Incubator](https://www.thedataincubator.com)  
+ 
+ ---
+ ** Galvanize vs. Metis **
+
+The Data Incubator and the Insight Fellows Program seem incredible. However, they are targeted toward PHDs. As a recent college graduate, I crossed these off my list.
+
+Data Science for Social Good is open to recent college graduates. However, it seems targeted to those with some academic experience handling data, so I crossed that off my list as well. Data Science for Social Good looks to me to play the role of a summer incubator for social impact projects - definitely something I'm going to keep in mind in the future.
+
+This left me with Metis and Galvanize. 
+
+Off the bat, I liked the Metis "vibe" better. It seemed heavily targeted toward professionals, or say wanna-be professionals, it's owned by Kaplan Test Prep, it has a very clean website, and most importantly, Metis has nothing but good reviews across the web. 
+
+Galvanize seemed like a good alternative with more history in the industry, but the reviews on the web were more tepid.
+
+Many of the amazing Galvanize reviews online were actually for Zipfian Academy, the bootcamp acquired by Galvanize in 2014 to form its Data Science Immersive. While Galvanize itself also had solid reviews, and I had friends who absolutely loved the program, the acquisition made me nervous. I'd seen reviews from other bootcamps take a turn when executive suite changes were made in the organizations. Perhaps due to their size, it seemed like bootcamp management structure really has effect in bettering or sometimes worsening the programs.
+
+For example, some reviews hinted that Galvanize's expansion made it so their curriculum was no long standardized between locations and their admission process was less selective. So while my Galvanize alumni friends boasted the program's perks, I felt less certain that my experience was guarenteed to be the same.
+---
+ 
+ ** More on Funding To Come **
+
