@@ -51,7 +51,7 @@ These two websites helped me most above others:
 <h1>Galvanize vs. Metis</h1>
 
 <hr>
-<br><br>
+<br>
 The Data Incubator and the Insight Fellows Program seem incredible. However, they are targeted toward PHDs. As a recent college graduate, I crossed these off my list.
 <br><br>
 Data Science for Social Good is open to recent college graduates. However, it seems targeted to those with some academic experience handling data, so I crossed that off my list as well. Data Science for Social Good looks to me to play the role of a summer incubator for social impact projects - definitely something I'm going to keep in mind in the future.
@@ -67,7 +67,7 @@ Many of the amazing Galvanize reviews online were actually for Zipfian Academy, 
 For example, some reviews hinted that Galvanize's expansion made it so their curriculum was no long standardized between locations and their admission process was less selective. So while my Galvanize alumni friends boasted the program's perks, I felt less certain that my experience was guarenteed to be the same.
 <br><br><hr>
 
-<br><br>
+<br>
 
-<h1 More on Funding To Come...</h1>
+<h1> More on Funding To Come... </h1>
 
