@@ -29,17 +29,18 @@ These two websites helped me most above others:
   
 <center>
 
-**Ultimately, I narrowed my search to these 5 programs:**   
-      
-[Galvanize](http://www.galvanize.com/courses/)
-  
-Data Science for Social Good](https://dssg.uchicago.edu) 
-   
-[Insight Fellows Program](http://insightdatascience.com)
-  
-[Metis](https://www.thisismetis.com)
-  
-[The Data Incubator](https://www.thedataincubator.com)   
+<strong>Ultimately, I narrowed my search to these 5 programs:<strong>
+      <br>
+<a href="http://www.galvanize.com/courses/">Galvanize</a>
+  <br>
+<a href="https://dssg.uchicago.edu">Data Science for Social Good</a>
+   <br>
+<a href="http://insightdatascience.com">Insight Fellows Program</a> 
+<br>
+<a href="https://www.thisismetis.com">Metis</a> 
+  <br>
+<a href="https://www.thedataincubator.com">The Data Incubator</a> 
+<br>
   
   
 </center>
