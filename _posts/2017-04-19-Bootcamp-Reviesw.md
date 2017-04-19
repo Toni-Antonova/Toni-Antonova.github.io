@@ -28,30 +28,28 @@ These two websites helped me most above others:
 [Course Report](https://www.coursereport.com) offers in-depth reviews of bootcamps, financing options, curriculum strategies, and much more.
   
 <html>
-<center>
 
-<strong>Ultimately, I narrowed my search to these 5 programs:<strong>
+
+<center><strong>Ultimately, I narrowed my search to these 5 programs:<strong></center>  
       <br>
-<a href="http://www.galvanize.com/courses/">Galvanize</a>
+<center><a href="http://www.galvanize.com/courses/">Galvanize</a></center>
   <br>
-<a href="https://dssg.uchicago.edu">Data Science for Social Good</a>
+<center><a href="https://dssg.uchicago.edu">Data Science for Social Good</a></center>
    <br>
-<a href="http://insightdatascience.com">Insight Fellows Program</a> 
+<center><a href="http://insightdatascience.com">Insight Fellows Program</a> </center>
 <br>
-<a href="https://www.thisismetis.com">Metis</a> 
+<center><a href="https://www.thisismetis.com">Metis</a> </center>
   <br>
-<a href="https://www.thedataincubator.com">The Data Incubator</a> 
+<center><a href="https://www.thedataincubator.com">The Data Incubator</a> </center>
 <br>
-  
-  
-</center>  
+
 
 <br>
 <br>
 <hr>
 
 <h1>Galvanize vs. Metis</h1>
-<br>
+
 <hr>
 <br><br>
 The Data Incubator and the Insight Fellows Program seem incredible. However, they are targeted toward PHDs. As a recent college graduate, I crossed these off my list.
