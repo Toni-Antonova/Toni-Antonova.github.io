@@ -40,11 +40,11 @@ Ultimately, I narrowed my search to these 5 programs:
 [The Data Incubator](https://www.thedataincubator.com)   
 
  
- ---
+---
 
- ## Galvanize vs. Metis 
+## Galvanize vs. Metis 
 
- ---
+---
 
 The Data Incubator and the Insight Fellows Program seem incredible. However, they are targeted toward PHDs. As a recent college graduate, I crossed these off my list.
 
@@ -61,6 +61,6 @@ Many of the amazing Galvanize reviews online were actually for Zipfian Academy, 
 For example, some reviews hinted that Galvanize's expansion made it so their curriculum was no long standardized between locations and their admission process was less selective. So while my Galvanize alumni friends boasted the program's perks, I felt less certain that my experience was guarenteed to be the same.
 
 ---
- 
- ## More on Funding To Come...
+
+## More on Funding To Come...
 
