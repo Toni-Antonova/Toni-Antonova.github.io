@@ -45,29 +45,31 @@ These two websites helped me most above others:
   
   
 </center>  
-</html>
-  
----
 
-## Galvanize vs. Metis 
+<br>
+<br>
+<hr>
 
----
-
+<h1>Galvanize vs. Metis</h1>
+<br>
+<hr>
+<br><br>
 The Data Incubator and the Insight Fellows Program seem incredible. However, they are targeted toward PHDs. As a recent college graduate, I crossed these off my list.
-
+<br><br>
 Data Science for Social Good is open to recent college graduates. However, it seems targeted to those with some academic experience handling data, so I crossed that off my list as well. Data Science for Social Good looks to me to play the role of a summer incubator for social impact projects - definitely something I'm going to keep in mind in the future.
-
+<br><br>
 This left me with Metis and Galvanize. 
-
+<br><br>
 Off the bat, I liked the Metis "vibe" better. It seemed heavily targeted toward professionals, or say wanna-be professionals, it's owned by Kaplan Test Prep, it has a very clean website, and most importantly, Metis has nothing but good reviews across the web. 
-
+<br><br>
 Galvanize seemed like a good alternative with more history in the industry, but the reviews on the web were more tepid.
-
+<br><br>
 Many of the amazing Galvanize reviews online were actually for Zipfian Academy, the bootcamp acquired by Galvanize in 2014 to form its Data Science Immersive. While Galvanize itself also had solid reviews, and I had friends who absolutely loved the program, the acquisition made me nervous. I'd seen reviews from other bootcamps take a turn when executive suite changes were made in the organizations. Perhaps due to their size, it seemed like bootcamp management structure really has effect in bettering or sometimes worsening the programs.
-
+<br><br>
 For example, some reviews hinted that Galvanize's expansion made it so their curriculum was no long standardized between locations and their admission process was less selective. So while my Galvanize alumni friends boasted the program's perks, I felt less certain that my experience was guarenteed to be the same.
+<br><br><hr>
 
----
+<br><br>
 
-## More on Funding To Come...
+<h1 More on Funding To Come...</h1>
 
