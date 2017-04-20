@@ -26,11 +26,9 @@ These two websites helped me most above others:
 [Switch Up](https://www.switchup.org/research/best-data-science-bootcamps) offers a selective list of the 6 "Best Data Science Bootcamps".  
   
 [Course Report](https://www.coursereport.com) offers in-depth reviews of bootcamps, financing options, curriculum strategies, and much more.
-  
-<html>
 
 
-<center><strong>Ultimately, I narrowed my search to these 5 programs:<strong></center>  
+<strong style="text-align: center;">Ultimately, I narrowed my search to these 5 programs:<strong>
       <br>
 <center><a href="http://www.galvanize.com/courses/">Galvanize</a></center>
   <br>
@@ -48,7 +46,7 @@ These two websites helped me most above others:
 <br>
 <hr>
 
-<h1>Galvanize vs. Metis</h1>
+<h2>Galvanize vs. Metis</h2>
 
 <hr>
 <br>
@@ -69,5 +67,5 @@ For example, some reviews hinted that Galvanize's expansion made it so their cur
 
 <br>
 
-<h1> More on Funding To Come... </h1>
+<h2> More on Funding To Come... </h2>
 
