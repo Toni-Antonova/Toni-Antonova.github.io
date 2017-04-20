@@ -28,16 +28,16 @@ These two websites helped me most above others:
 [Course Report](https://www.coursereport.com) offers in-depth reviews of bootcamps, financing options, curriculum strategies, and much more.
 
 
-<div style="text-align: center;"><strong>Ultimately, I narrowed my search to these 5 programs:<strong><div>
+<div style="text-align: center;"><strong>Ultimately, I narrowed my search to these 5 programs:<strong></div>
       <br><br>
 <a href="http://www.galvanize.com/courses/" style="text-align: center;">Galvanize</a>
-
+<br>
 <a href="https://dssg.uchicago.edu" style="text-align: center;">Data Science for Social Good</a>
-   
+<br>
 <a href="http://insightdatascience.com" style="text-align: center;">Insight Fellows Program</a>
-
+<br>
 <a href="https://www.thisismetis.com" style="text-align: center;">Metis</a>
-  
+  <br>
 <a href="https://www.thedataincubator.com" style="text-align: center;">The Data Incubator</a>
 
 <hr>
@@ -64,4 +64,3 @@ For example, some reviews hinted that Galvanize's expansion made it so their cur
 <hr>
 
 <h2> More on Funding To Come... </h2>
-
