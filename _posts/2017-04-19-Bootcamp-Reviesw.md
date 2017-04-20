@@ -28,22 +28,18 @@ These two websites helped me most above others:
 [Course Report](https://www.coursereport.com) offers in-depth reviews of bootcamps, financing options, curriculum strategies, and much more.
 
 
-<strong style="text-align: center;">Ultimately, I narrowed my search to these 5 programs:<strong>
+<div style="text-align: center;"><strong>Ultimately, I narrowed my search to these 5 programs:<strong><div>
       <br><br>
 <a href="http://www.galvanize.com/courses/" style="text-align: center;">Galvanize</a>
-  <br>
+
 <a href="https://dssg.uchicago.edu" style="text-align: center;">Data Science for Social Good</a>
-   <br>
+   
 <a href="http://insightdatascience.com" style="text-align: center;">Insight Fellows Program</a>
-<br>
+
 <a href="https://www.thisismetis.com" style="text-align: center;">Metis</a>
-  <br>
+  
 <a href="https://www.thedataincubator.com" style="text-align: center;">The Data Incubator</a>
-<br>
 
-
-<br>
-<br>
 <hr>
 
 <h2>Galvanize vs. Metis</h2>
@@ -63,9 +59,9 @@ Galvanize seemed like a good alternative with more history in the industry, but 
 Many of the amazing Galvanize reviews online were actually for Zipfian Academy, the bootcamp acquired by Galvanize in 2014 to form its Data Science Immersive. While Galvanize itself also had solid reviews, and I had friends who absolutely loved the program, the acquisition made me nervous. I'd seen reviews from other bootcamps take a turn when executive suite changes were made in the organizations. Perhaps due to their size, it seemed like bootcamp management structure really has effect in bettering or sometimes worsening the programs.
 <br><br>
 For example, some reviews hinted that Galvanize's expansion made it so their curriculum was no long standardized between locations and their admission process was less selective. So while my Galvanize alumni friends boasted the program's perks, I felt less certain that my experience was guarenteed to be the same.
-<br><br><hr>
+<br><br>
 
-<br>
+<hr>
 
 <h2> More on Funding To Come... </h2>
 
